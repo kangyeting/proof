@@ -1,4 +1,4 @@
-module code.vaniyou.com/golib/proof
+module github.com/kangyeting/proof
 
 go 1.20
 
